@@ -1,0 +1,11 @@
+.orderTitle {
+    font-weight: bold;
+}
+
+.receipt {
+    border: 2px solid black;
+}
+
+.total {
+    font-weight: bold;
+}
